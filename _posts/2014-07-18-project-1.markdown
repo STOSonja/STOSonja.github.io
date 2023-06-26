@@ -1,0 +1,12 @@
+---
+title: Call for Papers
+subtitle: January 2024
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: call_for_papers_vlada-karpovich-600x450.jpg
+thumbnail: call_for_papers_vlada-karpovich - 400x289.jpg
+alt: image-alt
+description: We invite submissions of papers covering various aspects of Csound, and encourage contributions on the following topics
+information: <div align="left">- Exploring Csound's educational potential,<br>- Innovations in sound synthesis and processing techniques,<br>- Introduction of new Csound opcodes,<br>- Development of fresh interfaces, front ends, and development environments for Csound,<br>- Real-time implementation of Csound,<br>- Utilizing Csound on embedded systems,<br>- Live coding utilizing Csound,<br>- Integration of Csound into web-based applications,<br>- Algorithmic composition with Csound,<br>- Unleashing creativity and fostering interdisciplinary collaborations through Csound projects </div>
+---
