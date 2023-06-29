@@ -632,6 +632,8 @@ section h3.section-subheading {
     }
 }
 
+@media all and (min-width: 600px) {
+}
 .team-member {
     margin-bottom: 50px;
     text-align: center;
