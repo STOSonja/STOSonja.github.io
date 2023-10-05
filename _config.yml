@@ -1,5 +1,5 @@
-url: https://www.mdw.ac.at/icsc2024/
-baseurl: ""
+url:
+baseurl: "https://www.mdw.ac.at/icsc2024"
 
 # Site settings
 title: ICSC 2024
